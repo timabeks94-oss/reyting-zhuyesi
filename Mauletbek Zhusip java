@@ -1,0 +1,39 @@
+# 🔹 Скомпилированные файлы
+*.class
+*.jar
+*.war
+
+# 🔹 Лог-файлы
+*.log
+logs/
+
+# 🔹 Временные файлы
+*.tmp
+*.temp
+*.swp
+
+# 🔹 Папки сборки проекта
+/target/
+/build/
+/out/
+/dist/
+
+# 🔹 Настройки IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+
+# 🔹 Настройки Eclipse
+.project
+.classpath
+.settings/
+.metadata/
+
+# 🔹 Настройки VS Code
+.vscode/
+.history/
+
+# 🔹 Системные файлы ОС
+.DS_Store
+Thumbs.db
+ehthumbs.db
